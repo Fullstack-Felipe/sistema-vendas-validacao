@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1699190959 source:c:\users\felip\desktop\code blocks\sistema-museu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+

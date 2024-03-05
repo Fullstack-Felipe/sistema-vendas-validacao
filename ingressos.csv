@@ -1,0 +1,7 @@
+DataHoraEmissao; NumeroVenda; NomeComprador; DocumentoComprador; TipoIngresso; PrecoIngresso
+27/10/2023 23:45;40; Felipe da Silva Monteiro;12345678910;2;R$ 15,00
+27/10/2023 23:45;50;Nome dois;98765430521;5;R$ 15,00
+27/10/2023 23:45;61;Nome três;56526248484;1;R$ 15,00
+2024-02-04 23:47:56; 41; felipe; 12345678912; 1; 30,00
+2024-03-05 12:22:38; 41; Felipe; 45612345678; 5; 15,00
+2024-03-05 12:23:33; 18467; Gabriel; 78965412456; 2; 15,00

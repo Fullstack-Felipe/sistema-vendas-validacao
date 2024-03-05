@@ -1,0 +1,5 @@
+1:30.00 #inteira
+1:15.00 #meia
+1:10.00 #criança
+1:10.00 #idoso
+1:15.00 #itaucard
